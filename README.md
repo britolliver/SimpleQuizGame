@@ -1,5 +1,5 @@
 # SimpleQuizGame
-My very first independent project. I am still learning a lot and feel like a beginner so I wanteed it to be simple.
+
 
 ## Purpose: ##
   
